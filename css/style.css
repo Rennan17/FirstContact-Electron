@@ -1,0 +1,10 @@
+body{background-color:#fa99ff;
+background-image:
+linear-gradient(at 85% 11%, hsla(146,83%,70%,1) 0px, transparent 50%),
+linear-gradient(at 49% 66%, hsla(221,95%,68%,1) 0px, transparent 50%),
+linear-gradient(at 30% 25%, hsla(101,80%,79%,1) 0px, transparent 50%),
+linear-gradient(at 70% 100%, hsla(166,76%,62%,1) 0px, transparent 50%),
+linear-gradient(at 0% 98%, hsla(205,76%,74%,1) 0px, transparent 50%),
+linear-gradient(at 1% 1%, hsla(240,68%,68%,1) 0px, transparent 50%),
+linear-gradient(at 11% 86%, hsla(272,88%,67%,1) 0px, transparent 50%);
+}
